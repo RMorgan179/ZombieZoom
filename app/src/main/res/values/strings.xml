@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zombie Zoom</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="ERROR_TAG">Zombie Zoom Error: </string>
+	<string name="WARNING_TAG">Zombie Zoom Warning:</string>
+    
+</resources>

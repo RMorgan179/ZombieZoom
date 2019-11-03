@@ -1,0 +1,4 @@
+#Sun Nov 03 00:33:58 GMT 2019
+base.0=/Users/RonanMorgan/ZZ/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

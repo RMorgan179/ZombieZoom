@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:8:5-9:68
+	android:name
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:9:9-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:10:2-11:51
+	android:name
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:11:6-49
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:13:2-14:96
+	android:required
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:14:70-93
+	android:name
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:14:6-69
+application
+ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:16:5-32:19
+	android:label
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:19:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:21:9-43
+	android:icon
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:18:9-45
+	android:allowBackup
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:20:9-40
+activity#uk.ac.qub.eeecs.zombiezoom.MainActivity
+ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:22:9-31:20
+	android:screenOrientation
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:25:13-50
+	android:label
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:24:13-45
+	android:configChanges
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:23:13-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml
+INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml
+INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml
+INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml
+		ADDED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml

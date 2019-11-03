@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="uk.ac.qub.eeecs.zombiezoom.test">
+
+    <uses-sdk android:minSdkVersion="13" android:targetSdkVersion="26" />
+
+    <application android:debuggable="true" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="uk.ac.qub.eeecs.zombiezoom"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for uk.ac.qub.eeecs.zombiezoom"/>
+</manifest>

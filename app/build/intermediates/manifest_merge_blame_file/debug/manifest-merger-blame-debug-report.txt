@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="uk.ac.qub.eeecs.zombiezoom"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="13"
+8-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:8:5-9:68
+11-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:9:9-65
+12    <uses-permission android:name="android.permission.WAKE_LOCK" />
+12-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:10:2-11:51
+12-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:11:6-49
+13
+14    <uses-feature
+14-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:13:2-14:96
+15        android:name="android.hardware.touchscreen.multitouch.distinct"
+15-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:14:6-69
+16        android:required="true" />
+16-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:14:70-93
+17
+18    <application
+18-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:16:5-32:19
+19        android:allowBackup="true"
+19-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:17:9-35
+20        android:debuggable="true"
+21        android:hardwareAccelerated="true"
+21-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:21:9-43
+22        android:icon="@drawable/ic_launcher"
+22-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:18:9-45
+23        android:label="@string/app_name"
+23-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:19:9-41
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:20:9-40
+26        <activity
+26-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:22:9-31:20
+27            android:name="uk.ac.qub.eeecs.zombiezoom.MainActivity"
+27-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:23:13-67
+28            android:configChanges="orientation|keyboard|keyboardHidden"
+28-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:26:13-72
+29            android:label="@string/app_name"
+29-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:24:13-45
+30            android:screenOrientation="landscape" >
+30-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:25:13-50
+31            <intent-filter>
+31-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:27:13-30:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:28:17-69
+32-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:28:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:29:17-77
+34-->/Users/RonanMorgan/ZZ/app/src/main/AndroidManifest.xml:29:27-74
+35            </intent-filter>
+36        </activity>
+37    </application>
+38
+39</manifest>
